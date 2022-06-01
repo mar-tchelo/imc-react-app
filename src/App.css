@@ -52,5 +52,9 @@ span{
 }
 
 h2{
+    text-transform: uppercase;
+    font-weight: normal;
+    border-radius: 6px;
+    padding: 0 10px;
     margin-top: 28px;
 }
